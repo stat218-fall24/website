@@ -4,7 +4,7 @@ toc: true
 ---
 
 ## Technical Assistance
-For technical questions, such as the suitability of your home computer for the course, installing plug-ins, problems with your password, etc., contact the CalPoly Help Desk at phone: 805-756-7000 or email: <a href = "mailto:sservicedesk@calpoly.edu">servicedesk@calpoly.edu</a> 
+For technical questions, such as the suitability of your home computer for the course, installing plug-ins, problems with your password, etc., contact the CalPoly Help Desk at phone: 805-756-7000 or visit this <a href = "https://tech.calpoly.edu/services/servicedesk">website</a> 
 
 
 
@@ -50,12 +50,12 @@ Below you will find a full list of Student Support Services at Cal Poly. I encou
 [Dream Center](https://dreamcenter.calpoly.edu/)   
 [Financial Aid and Scholarships](https://www.calpoly.edu/financial-aid)   
 [Food Pantry](https://basicneeds.calpoly.edu/foodpantry)   
-[Gender Equity Center](https://culture.calpoly.edu/GenderEquity)   
+[Gender Equity Center](https://gec.calpoly.edu/)   
 [Getting Good Grades with Gadgets](https://drc.calpoly.edu/content/getting-good-grades-gadgets)   
 [Campus Health and Wellbeing](https://chw.calpoly.edu/)   
-[Multicultural Center](https://culture.calpoly.edu/MultiCultural)   
+[Multicultural Center]https://multicultural.calpoly.edu/)   
 [Mustang Success Center](https://success.calpoly.edu/)   
-[Pride Center](https://culture.calpoly.edu/PrideCenter)   
+[LGBTQ Campus Life](https://pride.calpoly.edu/)   
 [Safer](https://safer.calpoly.edu/)   
 [Transfer Center](https://transfercenter.calpoly.edu/)   
 [Tutoring Resources and Supplemental Workshops ](https://advising.calpoly.edu/tutoring-study-sessions-and-workshops)   

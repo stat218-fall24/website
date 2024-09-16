@@ -31,7 +31,7 @@ knitr::include_graphics("img/img1.png")
 :::
 ::::
 
-I believe you will find many things that resonate with your own interests and the major you pursue. In this course, we will cover the following concepts, illustrating real-world applications of statistics in the life sciences: descriptive statistics, confidence intervals, parametric and nonparametric one-and two-sample hypothesis tests, analysis of variance, correlation, simple linear regression, chi-square tests. 
+I believe you will find many things that resonate with your own interests and the major you pursue. In this course, we will cover the following concepts, illustrating real-world applications of Statistics in the life sciences: descriptive statistics, confidence intervals, parametric and nonparametric one-and two-sample hypothesis tests, analysis of variance, correlation, simple linear regression, chi-square tests. 
 
 At times, we'll utilize the R programming language, a tool favored by _Homo sapiens_, to practically apply the techniques and theories learned. 
 
@@ -41,8 +41,8 @@ At times, we'll utilize the R programming language, a tool favored by _Homo sapi
 
 Upon completion of this course, you will be able to:
 
-1. describe statistics as a discipline in your own words,
-2. explain the interactions between statistics and life sciences,
+1. describe Statistics as a discipline in your own words,
+2. explain the interactions between Statistics and life sciences,
 3. design a data collection scheme based on simple random sampling or simple experimental designs,
 4. distinguish between observational studies and experiments and understand the limitations (practical and consequential) of each,
 5. summarize data using graphical techniques,
@@ -62,7 +62,7 @@ Upon completion of this course, you will be able to:
 
 ## Sustainability Learning Outcomes
 
-Given your majors in life sciences and my academic background in environmental and sustainability education, I'm enthusiastic about incorporating Cal Poly's Sustainability Learning Objectives into our course content. _While I won't be assigning grades_ specifically for this subject, I encourage you to explore and assess your progress in achieving these objectives. Additionally, you can learn more about sustainability topics by coming to my office or reaching out to ask. 
+Given your majors in life sciences and the significant role that environmental and sustainability education plays in my academic background, I'm enthusiastic about incorporating Cal Poly's Sustainability Learning Objectives into our course content. _While I won't be assigning grades_ specifically for this subject, I encourage you to explore and assess your progress in achieving these objectives. Additionally, you can learn more about sustainability topics by coming to my office or reaching out to ask. 
 
 Below, I've included Cal Poly's definition of sustainability and its associated learning objectives. I am planning to integrate 1^st^ and 4^th^ learning objectives specifically.
 

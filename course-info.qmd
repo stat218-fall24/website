@@ -306,7 +306,9 @@ In brief, you must be present in our classroom (both physically and mentally) un
 
 ### Midterm and Final Exams
 
-Exams are to be taken online without the use of web pages or technological tools. It is expected that you will take exams as per the scheduled times. You may use your course notes/textbook/assignments. You may use a calculator. You should not refer to any other webpages or technology tools. You are not to discuss these questions with any other students during or after taking the exam. Here are the dates of exams:
+Exams are to be taken without the use of textbooks or notes. It is expected that you will take exams as per the scheduled times. In cases of extraordinary circumstances like illness, a family loss, please inform me before the examination.
+
+You won’t be required to computer for the exams, but you may see some questions that involve filling in missing information, interpreting provided R outputs, or selecting the appropriate code to complete a task.
 
 __Mon, Oct 22:__ Midterm Exam
 
@@ -349,7 +351,7 @@ These assignments are individual assignments to track your learning progress. Yo
 
 ### Investigation Assignments
 
-There will be 8 investigation assignments, given every Tuesday, to be completed in this course. These assignments will focus on a key statistical concept. You are encouraged to work in groups of ***up to 3 people*** and submit one write-up with all group members’ names. All investigation assignments are due __Thursdays by 11:59 p.m.__
+There will be 8 investigation assignments, given every Tuesday, to be completed in this course. These assignments will focus on a key statistical concept. You are encouraged to work in groups of ***up to 3 people*** and submit one write-up with all group members’ names. ***If your partner is absent on a given day, feel free to join another group.*** All investigation assignments are due __Thursdays by 11:59 p.m.__
 
 ### Lab Assignments
 
