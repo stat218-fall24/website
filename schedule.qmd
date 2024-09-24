@@ -38,7 +38,7 @@ all conveniently organized for your academic journey.
   <tr>
     <td>&nbsp; Nothing, just come to the class!</td>
     <td>
-      &nbsp;<input type="checkbox" /><a href="" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide" target="_blank"></i> Covering the website & syllabus</a> <i class="fas fa-file-lines"></i>   
+      &nbsp;<input type="checkbox" /><a href="https://stat218-fall24.github.io/slides/01-Week-01/01-Lect-01/01-welcome.html" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide" target="_blank"></i> Covering the website & syllabus</a> <i class="fas fa-file-lines"></i>   
       &nbsp;<input type="checkbox" /> A Discussion on Life Sci. and Statistics <i class="fas fa-comments"></i>
   <td> 
       &nbsp;<input type="checkbox" /> <a href="https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen" target="_blank"> <i aria-hidden="true" title="External Link to YouTube" target="_blank"></i> The best stats you've ever seen</a> <i class="fas fa-video"></i>  
@@ -61,7 +61,7 @@ all conveniently organized for your academic journey.
 </td>
 
 <td>    
-    &nbsp; <input type="checkbox" /> Investigation 1 <i class="fa-solid fa-magnifying-glass"></i>   
+    &nbsp; <input type="checkbox" /><a href="https://docs.google.com/document/d/1DGwqRR4KNm9HNC8UoEsiGz9cw0lUp4XH/copy?usp=sharing&ouid=107969602618040380602&rtpof=true&sd=true" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide" target="_blank"></i> Investigation 1 </a><i class="fa-solid fa-magnifying-glass"></i>   
     </td>
     <td>
     &nbsp;<input type="checkbox" /> <i class="fas fa-users"></i> <i class="fas fa-upload"></i>  Investigation 1  
