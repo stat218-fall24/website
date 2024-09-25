@@ -80,7 +80,7 @@ all conveniently organized for your academic journey.
 &nbsp; <b>FROM Samuels et al. (2016)</b>
   </td>
     <td>
-    &nbsp; <input type="checkbox" /> Lecture Slides   
+      &nbsp;<input type="checkbox" /><a href="https://stat218-fall24.github.io/slides/01-Week-01/03-Lect-03/01-sampling.html" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide" target="_blank"></i> Lecture Slides - Sampling </a> <i class="fas fa-file-lines"></i>   
     &nbsp; <input type="checkbox" /> Guided Activity
     </td>
 
