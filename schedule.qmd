@@ -162,9 +162,10 @@ all conveniently organized for your academic journey.
 </td>
 
 <td>    
-    &nbsp; <input type="checkbox" /> Investigation 2 <i class="fa-solid fa-magnifying-glass"></i>   
-    </td>
-    <td>
+    &nbsp; <input type="checkbox" /><a href="https://docs.google.com/document/d/16fyw8B1OubNi8sKx2eXifpq_8rJTz4VF/copy?usp=sharing&ouid=107969602618040380602&rtpof=true&sd=true" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide" target="_blank"></i> Investigation 2 </a><i class="fa-solid fa-magnifying-glass"></i>  
+</td>
+
+<td>
     &nbsp;<input type="checkbox" /> <i class="fas fa-users"></i> <i class="fas fa-upload"></i>  Investigation 2  
 
 <br>
