@@ -80,7 +80,7 @@ all conveniently organized for your academic journey.
 &nbsp; <b>FROM Samuels et al. (2016)</b>
   </td>
     <td>
-      &nbsp;<input type="checkbox" /><a href="https://stat218-fall24.github.io/slides/01-Week-01/03-Lect-03/01-sampling.html" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide" target="_blank"></i> Lecture Slides - Sampling </a> <i class="fas fa-file-lines"></i>   
+      &nbsp;&nbsp;<input type="checkbox" /><a href="https://stat218-fall24.github.io/slides/01-Week-01/03-Lect-03/01-sampling.html" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide" target="_blank"></i> Lecture Slides - Sampling </a> <i class="fas fa-file-lines"></i>   
     &nbsp; <input type="checkbox" /> Guided Activity
     </td>
 
@@ -137,8 +137,8 @@ all conveniently organized for your academic journey.
     &nbsp;<input type="checkbox" /> <b>Section 2.3:</b> Descriptive Statistics <i class="fas fa-book-open"></i>    
     </td>
     <td>
-      &nbsp;<input type="checkbox" /><a href="" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide" target="_blank"></i> Lecture Slides</a> <i class="fas fa-file-lines"></i>   
-      &nbsp;<input type="checkbox" /> Rossman & Chance Applet <i class="fas fa-comments"></i>
+      &nbsp;<input type="checkbox" /><a href="https://stat218-fall24.github.io/slides/02-Week-02/01-Lecture-01.html" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides - Description of Samples and Populations </a> <i class="fas fa-file-lines"></i>   
+      &nbsp;<input type="checkbox" /><a href="https://www.rossmanchance.com/applets/2021/descstats/Dotplot.htm"target="_blank"><i aria-hidden="true" title="External Link to the Applet"></i> Rossman & Chance Applet </a> <i class="fas fa-comments"></i>
   <td>
       &nbsp;<i class="fas fa-user"></i> <i class="fas fa-upload"></i> Weekly Assignment    
     <br>
