@@ -135,6 +135,8 @@ all conveniently organized for your academic journey.
     <br>
     &nbsp;<input type="checkbox" /> <b>Section 2.2:</b> Frequency Distributions <i class="fas fa-book-open"></i>      
     &nbsp;<input type="checkbox" /> <b>Section 2.3:</b> Descriptive Statistics <i class="fas fa-book-open"></i>    
+
+&nbsp; <b>FROM Samuels et al. (2016)</b>  
     </td>
     <td>
       &nbsp;<input type="checkbox" /><a href="https://stat218-fall24.github.io/slides/02-Week-02/01-Lecture-01.html" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides - Description of Samples and Populations </a> <i class="fas fa-file-lines"></i>   
@@ -216,9 +218,113 @@ all conveniently organized for your academic journey.
 
 ### {{< fa calendar >}} Week 3
 
+
+<table class="table-striped table-bordered" style="font-size: smaller; text-align: left;">
+
+  <thead>
+    <th style="width: 40%">BEFORE CLASS</th>
+    <th style="width: 36%">DURING CLASS</th>
+    <th style="width: 24%">AFTER CLASS</th>
+  </thead>
+
+  <tr>
+    <td>
+    <b> CHAPTER 3 and CHAPTER 4 </b>  
+    <br>
+    &nbsp;<input type="checkbox" /> <b>Section 3.1:</b> Probability and the Life Sciences <i class="fas fa-book-open"></i>      
+    &nbsp;<input type="checkbox" /> <b>Section 3.2:</b> Introduction to Probability <i class="fas fa-book-open"></i>   
+    &nbsp;<input type="checkbox" /> <b>Section 3.4:</b> Density Curves <i class="fas fa-book-open"></i>  
+    &nbsp;<input type="checkbox" /> <b>Chapter 4</b> pp. 132- 137 <i class="fas fa-book-open"></i>  
+
+&nbsp; <b>FROM Samuels et al. (2016)</b>  
+    </td>
+    <td>
+      &nbsp;<input type="checkbox" /><a href="" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides </a> <i class="fas fa-file-lines"></i>   
+      &nbsp;<input type="checkbox" /><a href=""target="_blank"><i aria-hidden="true" title="External Link to the Applet"></i> Rossman & Chance Applet </a> <i class="fas fa-comments"></i>
+  <td>
+
+<b> No Assignment for today! </b>
+      
+  </td>
+</tr>
+
+  <tr>
+    <td> 
+    <b> CHAPTER 3 and CHAPTER 4 </b>  
+    <br>
+    &nbsp;<input type="checkbox" /> <b>Section 3.1:</b> Probability and the Life Sciences <i class="fas fa-book-open"></i>      
+    &nbsp;<input type="checkbox" /> <b>Section 3.2:</b> Introduction to Probability <i class="fas fa-book-open"></i>   
+    &nbsp;<input type="checkbox" /> <b>Section 3.4:</b> Density Curves <i class="fas fa-book-open"></i>  
+    &nbsp;<input type="checkbox" /> <b>Chapter 4</b> pp. 132- 137 <i class="fas fa-book-open"></i>  
+
+&nbsp; <b>FROM Samuels et al. (2016)</b>  
+</td>
+
+<td>    
+    &nbsp; <input type="checkbox" /><a href="" target="_blank"><i aria-hidden="true" title="External Link to Investigation document" target="_blank"></i> Investigation 3 </a><i class="fa-solid fa-magnifying-glass"></i>  
+</td>
+
+<td>
+    &nbsp;<input type="checkbox" /> <i class="fas fa-users"></i> <i class="fas fa-upload"></i>  Investigation 3  
+
 <br>
-Underway &nbsp; <i class="fas fa-broom"></i>
+
+<i class="fas fa-clock"></i>  <b> DUE DATE: Thu, Oct 10 </b>
+</td>
+  </tr>
+
+  <tr>
+    <td> 
+    <b> CH 6: Confidence Intervals </b>  
+    <br>
+    &nbsp;<input type="checkbox" /> <b>Section 6.1:</b> Statistical Estimation <i class="fas fa-book-open"></i>      
+    &nbsp;<input type="checkbox" /> <b>Section 6.2:</b> Standard Error of the Mean <i class="fas fa-book-open"></i>   
+    &nbsp;<input type="checkbox" /> <b>Section 6.3:</b> Confidence Interval for µ <i class="fas fa-book-open"></i>  
+    &nbsp;<input type="checkbox" /> <b>Section 6.4:</b> Planning a Study to Estimate µ <i class="fas fa-book-open"></i>  
+
+&nbsp; <b>FROM Samuels et al. (2016)</b>  
+    </td>
+    <td>
+    <br>
+     &nbsp; <input type="checkbox" /><a href="" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide" target="_blank"></i> Lecture Slides</a> <i class="fas fa-file-lines"></i>   
+    &nbsp; <input type="checkbox" /> Guided Activity
+    <br>   
+    </td>
+
+<td>
+    &nbsp;<i class="fas fa-user"></i> <i class="fas fa-upload"></i> Weekly Assignment    
+    <br>
+    &nbsp; <input type="checkbox" /> Course Survey     
+
+
+<i class="fas fa-clock"></i><b> DUE DATE: Sun, Oct 13</b> 
+</td>
+  </tr>
+
+  <tr>
+    <td>
+    <b> CH 6: Confidence Intervals </b>  
+    <br>
+    &nbsp;<input type="checkbox" /> <b>Section 6.1:</b> Statistical Estimation <i class="fas fa-book-open"></i>      
+    &nbsp;<input type="checkbox" /> <b>Section 6.2:</b> Standard Error of the Mean <i class="fas fa-book-open"></i>   
+    &nbsp;<input type="checkbox" /> <b>Section 6.3:</b> Confidence Interval for µ <i class="fas fa-book-open"></i>  
+    &nbsp;<input type="checkbox" /> <b>Section 6.4:</b> Planning a Study to Estimate µ <i class="fas fa-book-open"></i>  
+
+&nbsp; <b>FROM Samuels et al. (2016)</b>  
+    </td>
+    
+<td>    
+    &nbsp; <input type="checkbox" /> <a href="" target="_blank"><i aria-hidden="true" title="External Link to Lab Slide" target="_blank"></i> Lab Slides - Descriptive Statistics - II   </a> <i class="fas fa-file-lines"></i>   
+    </td>
+    <td> 
+    &nbsp;<i class="fas fa-users"></i> <i class="fas fa-upload"></i> Lab Assignment 2  
+ 
 <br>
+    <i class="fas fa-clock"></i><b> DUE DATE: Sun, Oct, 13</b>
+    </td>
+  </tr>
+
+</table>
 
 
 ### {{< fa calendar >}} Week 4
