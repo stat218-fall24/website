@@ -216,7 +216,7 @@ all conveniently organized for your academic journey.
 </table>
 
 
-### {{< fa calendar >}} Week 3
+### {{< fa calendar >}} Week 3 (Oct 7 - Oct 10)
 
 
 <table class="table-striped table-bordered" style="font-size: smaller; text-align: left;">
