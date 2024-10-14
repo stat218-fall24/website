@@ -341,8 +341,8 @@ all conveniently organized for your academic journey.
     </td>
     </td>
     <td>
-      &nbsp;<input type="checkbox" /><a href="" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides - Being Worked On </a> <i class="fas fa-file-lines"></i>   
-      &nbsp;<input type="checkbox" /><a href="" target="_blank"><i aria-hidden="true" title="External Link to the Applet"></i> Rossman & Chance Applet </a> <i class="fas fa-comments"></i>
+      &nbsp;<input type="checkbox" /><a href="https://docs.google.com/presentation/d/1SMEIqdsRczd4xq-64Ayt4i2Nfnc93-A60pgXl_9ajUY/edit?usp=sharing" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides - Confidence Intervals </a> <i class="fas fa-file-lines"></i>   
+      &nbsp;<input type="checkbox" /><a href="https://www.rossmanchance.com/applets/2021/oneprop/OneProp.htm" target="_blank"><i aria-hidden="true" title="External Link to the Applet"></i> Rossman & Chance Applet </a> <i class="fas fa-comments"></i>
   <td>
 
 <b> No Assignment for today! </b>
