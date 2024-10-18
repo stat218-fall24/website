@@ -216,7 +216,7 @@ all conveniently organized for your academic journey.
 </table>
 
 
-### {{< fa calendar >}} Week 3 (Oct 7 - Oct 10)
+### {{< fa calendar-days >}} Week 3 (Oct 7 - Oct 10)
 
 
 <table class="table-striped table-bordered" style="font-size: smaller; text-align: left;">
@@ -321,7 +321,7 @@ all conveniently organized for your academic journey.
 </table>
 
 
-### {{< fa calendar >}} Week 4 (Oct 14 - Oct 17)
+### {{< fa calendar-days >}} Week 4 (Oct 14 - Oct 17)
 
 <table class="table-striped table-bordered" style="font-size: smaller; text-align: left;">
 
@@ -409,7 +409,7 @@ all conveniently organized for your academic journey.
     </td>
     
 <td>    
-    &nbsp; <input type="checkbox" /> <a href="" target="_blank"><i aria-hidden="true" title="External Link to Lab Slide" target="_blank"></i> Ungraded Quiz - Being Worked On  </a> <i class="fas fa-file-lines"></i>   
+    &nbsp; <input type="checkbox" /> <a href="https://forms.gle/LwNZvKwfWah8BEDn6" target="_blank"><i aria-hidden="true" title="External Link to Lab Slide" target="_blank"></i> Ungraded Quiz - Google Form  </a> <i class="fas fa-highlighter"></i>   
     </td>
     <td> 
     &nbsp; <input type="checkbox" /> Review your class notes
@@ -420,12 +420,75 @@ all conveniently organized for your academic journey.
 
 </table>
 
-### {{< fa calendar >}} Week 5
+### {{< fa calendar-days >}} Week 5 (Oct 21 - Oct 24)
 
-<br>
-Being Worked On &nbsp; <i class="fas fa-hammer"></i>
-<br>
+<table class="table-striped table-bordered" style="font-size: smaller; text-align: left;">
 
+  <thead>
+    <th style="width: 40%">BEFORE CLASS</th>
+    <th style="width: 35%">DURING CLASS</th>
+    <th style="width: 25%">AFTER CLASS</th>
+  </thead>
+
+  <tr>
+    <td> 
+    &nbsp; <b> Ch 6: Confidence Interval </b>  
+    &nbsp;<input type="checkbox" /> <b>Section 6.3:</b> CI for µ <i class="fas fa-book-open"></i>    
+    &nbsp;<input type="checkbox" /> <b>Section 6.4:</b> Planning a Study to Estimate µ <i class="fas fa-book-open"></i>  
+    &nbsp;<input type="checkbox" /> <b>Section 6.5:</b> Conditions for Validity of Estimation Methods <i class="fas fa-book-open"></i>    
+    &nbsp; FROM Samuels et al. (2016)
+    </td>
+    <td>    
+    &nbsp; <input type="checkbox" /><a href = ""><i aria-hidden="true" title="External Link to Lecture Worksheet"></i> Lecture Worksheet - Coming Soon! </a>&nbsp; <i class="fas fa-file-lines"></i>    
+    </td>
+    
+  <td>
+       &nbsp;<i class="fas fa-user"></i> <i class="fas fa-upload"></i> Weekly Assignment    
+    <br>
+    &nbsp; <input type="checkbox" /> Exercise 6.4.1     
+
+<i class="fas fa-clock"></i><b> DUE DATE: Sun, Oct 27</b>
+      
+</td>
+  </tr>
+<tr>
+  <td colspan="3" style="text-align: center;">&nbsp; <b> Midterm 1 (In-class) </b></td>
+</tr>
+<tr>
+  <td> 
+    &nbsp; <b> Ch 6: Inference for Categorical Data </b>    
+    &nbsp;<input type="checkbox"><a href = "https://leanpub.com/os" target="_blank"><i aria-hidden="true" title="External Link to Book PDF"></i><b> Sec. 6.2</b> Difference of two proportions</a>&nbsp; <i class="fas fa-book-open"></i>   
+    <br>
+    &nbsp; FROM Diez et al. (2022) 
+    <br>
+  </td>
+    <td>    
+    &nbsp; <input type="checkbox" /><a href = ""><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides - Coming soon! </a> &nbsp; <i class="fas fa-file-lines"></i>       
+    <td>
+    &nbsp; **No Assignment for Today!** 
+</td>
+  </tr>
+
+  <tr>
+    <td> 
+    &nbsp; <b> Ch 6: Inference for Categorical Data </b>    
+    &nbsp;<input type="checkbox"><a href = "https://leanpub.com/os" target="_blank"><i aria-hidden="true" title="External Link to Book PDF"></i><b> Sec. 6.2</b> Difference of two proportions</a>&nbsp; <i class="fas fa-book-open"></i>   
+    <br>
+    &nbsp; FROM Diez et al. (2022) 
+    <br>
+    </td>
+    
+  <td>
+     &nbsp; <input type="checkbox" /><a href = ""target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lab Slides - Coming soon! </a> &nbsp; <i class="fas fa-file-lines"></i>       
+    </td>
+    <td>
+    &nbsp;<input type="checkbox" /> <i class="fas fa-users"></i> <i class="fas fa-upload"></i> Lab Assignment 3  
+<br>
+<i class="fas fa-clock"></i><b> DUE DATE: Sun, Oct 27 </b>
+    </td>
+  </tr>
+
+</table>
 ### {{< fa calendar >}} Week 6
 
 <br>
