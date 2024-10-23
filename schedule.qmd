@@ -425,8 +425,8 @@ all conveniently organized for your academic journey.
 <table class="table-striped table-bordered" style="font-size: smaller; text-align: left;">
 
   <thead>
-    <th style="width: 40%">BEFORE CLASS</th>
-    <th style="width: 35%">DURING CLASS</th>
+    <th style="width: 35%">BEFORE CLASS</th>
+    <th style="width: 40%">DURING CLASS</th>
     <th style="width: 25%">AFTER CLASS</th>
   </thead>
 
@@ -439,7 +439,7 @@ all conveniently organized for your academic journey.
     &nbsp; FROM Samuels et al. (2016)
     </td>
     <td>    
-    &nbsp; <input type="checkbox" /><a href = "https://docs.google.com/presentation/d/10HzG1IP3dnSkQOzZ1KD1Tg7x_nMWfX1lHfEfXq3hcR4/edit?usp=sharing"><i aria-hidden="true" title="External Link to Lecture Slides"></i> Lecture Slides - Factors Affecting CI </a>&nbsp; <i class="fas fa-file-lines"></i>    
+    &nbsp; <input type="checkbox" /><a href = "https://docs.google.com/presentation/d/10HzG1IP3dnSkQOzZ1KD1Tg7x_nMWfX1lHfEfXq3hcR4/edit?usp=sharing" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slides"></i> Lecture Slides - Factors Affecting CI </a>&nbsp; <i class="fas fa-file-lines"></i>    
     </td>
     
   <td>
@@ -463,7 +463,9 @@ all conveniently organized for your academic journey.
     <br>
   </td>
     <td>    
-    &nbsp; <input type="checkbox" /><a href = ""><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides - Coming soon! </a> &nbsp; <i class="fas fa-file-lines"></i>       
+    &nbsp; <input type="checkbox" /><a href = "https://docs.google.com/presentation/d/1CEetlkhGtgq8MLRdFsAB3hF62OU3n6BgY5J4FWZS0YM/edit?usp=sharing" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides - Association and Confounding </a> &nbsp; <i class="fas fa-file-lines"></i>       
+
+  &nbsp; <input type="checkbox" /><a href = "https://stat218-fall24.github.io/slides/05-Week-05/01-Lecture-03.html" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides - Difference of Two Proportions </a> &nbsp; <i class="fas fa-file-lines"></i>       
     <td>
     &nbsp; **No Assignment for Today!** 
 </td>
