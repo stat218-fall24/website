@@ -481,7 +481,7 @@ all conveniently organized for your academic journey.
     </td>
     
   <td>
-     &nbsp; <input type="checkbox" /><a href = ""target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lab Slides - Coming soon! </a> &nbsp; <i class="fas fa-file-lines"></i>       
+     &nbsp; <input type="checkbox" /><a href = "https://www.rossmanchance.com/chance/stat217S22/labs/lab4/lab4_1.html" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lab Activity - Dolphin Therapy (Applet) </a> &nbsp; <i class="fas fa-file-lines"></i>       
     </td>
     <td>
     &nbsp;<input type="checkbox" /> <i class="fas fa-users"></i> <i class="fas fa-upload"></i> Lab Assignment 3  
