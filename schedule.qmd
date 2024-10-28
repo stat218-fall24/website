@@ -510,7 +510,7 @@ all conveniently organized for your academic journey.
     <br>
     </td>
     <td>
-      &nbsp;<input type="checkbox" /><a href="" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides - Coming soon </a> <i class="fas fa-file-lines"></i>   
+      &nbsp;<input type="checkbox" /><a href="https://docs.google.com/presentation/d/1_Ec3vnjueEeLCPyBcumGL5KgUlqp8PEoE3Hj-O1RP40/edit?usp=sharing" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides - Lab 3 Review - Comparing Two Proportions </a> <i class="fas fa-file-lines"></i>   
   </td>
   <td>
   
