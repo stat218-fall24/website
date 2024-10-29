@@ -529,7 +529,8 @@ all conveniently organized for your academic journey.
 </td>
 
 <td>    
-    &nbsp; <input type="checkbox" /><a href="" target="_blank"><i aria-hidden="true" title="External Link to Investigation document" target="_blank"></i> Investigation 5 </a><i class="fa-solid fa-magnifying-glass"></i>  
+    &nbsp; <input type="checkbox" /><a href="https://docs.google.com/document/u/1/d/1K6MqctglpgHHqJ7nPHEUNDrfzI3anpA8/copy?usp=sharing&ouid=107969602618040380602&rtpof=true&sd=true" target="_blank"><i aria-hidden="true" title="External Link to Investigation document" target="_blank"></i> Investigation 5 - Do COVID vaccines work?
+ </a><i class="fa-solid fa-magnifying-glass"></i>  
 </td>
 
 <td>
