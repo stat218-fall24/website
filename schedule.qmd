@@ -594,11 +594,81 @@ all conveniently organized for your academic journey.
 </table>
 
 
-### {{< fa calendar >}} Week 7
+### {{< fa calendar-days >}} Week 7 (Nov 4 - Nov 7)
+
+<table class="table-striped table-bordered" style="font-size: smaller; text-align: left;">
+
+  <thead>
+    <th style="width: 37%">BEFORE CLASS</th>
+    <th style="width: 33%">DURING CLASS</th>
+    <th style="width: 30%">AFTER CLASS</th>
+  </thead>
+
+  <tr>
+    <td> 
+    <br>
+    &nbsp; <b> Ch 8: Comparison of Paired Samples </b>  
+    &nbsp;<input type="checkbox"> <b>Section 8.1:</b> Introduction <i class="fas fa-book-open"></i>  
+    &nbsp;<input type="checkbox"> <b>Section 8.2:</b> The Paired-Sample t Test and Confidence Interval <i class="fas fa-book-open"></i>  
+    &nbsp;<input type="checkbox"> <b> Section 8.3:</b> The Paired Design  <i class="fas fa-book-open"></i>  
+    &nbsp; FROM Samuels et al. (2016)    
+    </td>
+    <td> 
+    &nbsp; <input type="checkbox" /><a href = ""target="_blank"><i aria-hidden="true" title="External Link to Lecture Slides"></i> Lecture Slides - Coming Soon! </a> &nbsp; <i class="fas fa-file-lines"></i>   
+    </td>
+    <td>
+   &nbsp;<i class="fas fa-user"></i> <i class="fas fa-upload"></i> Weekly Assignment 
+   
+   <input type="checkbox">Week 6 & 7 Review Assignment (CANVAS)     
+
+    <i class="fas fa-clock"></i><b> DUE DATE: Sun, Nov 10 </b>  
+  </td>
+</tr>
+
+  <tr>
+    <td> 
+    <br>
+    &nbsp; <b> Ch 8: Comparison of Paired Samples </b>  
+    &nbsp;<input type="checkbox"> <b>Section 8.1:</b> Introduction <i class="fas fa-book-open"></i>  
+    &nbsp;<input type="checkbox"> <b>Section 8.2:</b> The Paired-Sample t Test and Confidence Interval <i class="fas fa-book-open"></i>  
+    &nbsp;<input type="checkbox"> <b> Section 8.3:</b> The Paired Design  <i class="fas fa-book-open"></i>  
+    &nbsp; FROM Samuels et al. (2016)    
+    </td>
+<td>    
+    &nbsp; <input type="checkbox" /><a href="https://docs.google.com/document/d/1ZqjMkmX2LLEAsBPUpmwtO3RRNKyXMOJ8/copy?usp=sharing&ouid=107969602618040380602&rtpof=true&sd=true" target="_blank"><i aria-hidden="true" title="External Link to Investigation document" target="_blank"></i> Investigation 6 - Document
+ </a><i class="fa-solid fa-magnifying-glass"></i>  
+</td>
+
+<td>
+    &nbsp;<input type="checkbox" /> <i class="fas fa-users"></i> <i class="fas fa-upload"></i>  Investigation 6  
 
 <br>
-Being Worked On &nbsp; <i class="fas fa-hammer"></i>
+
+<i class="fas fa-clock"></i>  <b> DUE DATE: Fri, Nov 08 </b>
+</td>
+  </tr>
+<tr>
+  <td colspan="3" style="text-align: center;">    &nbsp;<input type="checkbox" /> <i class="fas fa-users"></i> <i class="fas fa-upload"></i> <b> Midterm 2 Due Date Today (Take Home) </b></td>
+</tr>
+  <tr>
+  <td>
+    <br>
+    &nbsp; <b> Ch 8: Comparison of Paired Samples </b>  
+    &nbsp;<input type="checkbox"> <b>Section 8.1:</b> Introduction <i class="fas fa-book-open"></i>  
+    &nbsp;<input type="checkbox"> <b>Section 8.2:</b> The Paired-Sample t Test and Confidence Interval <i class="fas fa-book-open"></i>  
+    &nbsp;<input type="checkbox"> <b> Section 8.3:</b> The Paired Design  <i class="fas fa-book-open"></i>  
+    &nbsp; FROM Samuels et al. (2016) 
+    </td>
+    <td>    
+    &nbsp; <input type="checkbox" />Lab Slides - Coming Soon! &nbsp; <i class="fas fa-file-lines"></i>
+    </td>
+    <td> 
+    &nbsp;<i class="fas fa-users"></i> <i class="fas fa-upload"></i> Lab Assignment 5  
+ 
 <br>
+    <i class="fas fa-clock"></i><b> DUE DATE: Sun, Nov, 10</b>    </td>
+  </tr>
+</table>
 
 ### {{< fa calendar >}} Week 8
 
