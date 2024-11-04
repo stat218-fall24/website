@@ -614,7 +614,7 @@ all conveniently organized for your academic journey.
     &nbsp; FROM Samuels et al. (2016)    
     </td>
     <td> 
-    &nbsp; <input type="checkbox" /><a href = ""target="_blank"><i aria-hidden="true" title="External Link to Lecture Slides"></i> Lecture Slides - Coming Soon! </a> &nbsp; <i class="fas fa-file-lines"></i>   
+    &nbsp; <input type="checkbox" /><a href = "https://docs.google.com/presentation/d/1E6BOgp_l08zvHcN2sV_XHtYaJOJH7cf6REP-EaxQ0uc/edit?usp=sharing"target="_blank"><i aria-hidden="true" title="External Link to Lecture Slides"></i> Lecture Slides - The Paired Design </a> &nbsp; <i class="fas fa-file-lines"></i>   
     </td>
     <td>
    &nbsp;<i class="fas fa-user"></i> <i class="fas fa-upload"></i> Weekly Assignment 
@@ -660,7 +660,7 @@ all conveniently organized for your academic journey.
     &nbsp; FROM Samuels et al. (2016) 
     </td>
     <td>    
-    &nbsp; <input type="checkbox" />Lab Slides - Coming Soon! &nbsp; <i class="fas fa-file-lines"></i>
+     &nbsp;<input type="checkbox" /><a href="https://stat218-fall24.github.io/slides/07-Week-07/01-Lec-04-Lab-05.html" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide" target="_blank"></i> Lab Slides - Paired Samples t-test </a> &nbsp; <i class="fas fa-file-lines"></i>
     </td>
     <td> 
     &nbsp;<i class="fas fa-users"></i> <i class="fas fa-upload"></i> Lab Assignment 5  
