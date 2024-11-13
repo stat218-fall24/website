@@ -689,7 +689,7 @@ all conveniently organized for your academic journey.
     &nbsp; <input type="checkbox" /> <b> Bring your midterm papers if you had (I'll distribute them if you did not get) </b>
     </td>   
     <td>    
-    &nbsp; <input type="checkbox" /> <a href = "" target="_blank"><i aria-hidden="true" title="External Link to Quiz"></i> Review Quiz (UNGRADED) - Coming soon </a>&nbsp; &nbsp; <i class="fas fa-highlighter"></i> 
+    &nbsp; <input type="checkbox" /> Reviewed midterm questions &nbsp; &nbsp; <i class="fas fa-highlighter"></i> 
     </td>
     <td>  
 <b> No Assignment for today! </b>
@@ -703,7 +703,7 @@ all conveniently organized for your academic journey.
     &nbsp;&nbsp;FROM Diez et al. (2022)   
     </td>   
     <td>    
-    &nbsp; <input type="checkbox"><a href="" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides - Coming soon </a> &nbsp; <i class="fas fa-file-lines"></i>    
+    &nbsp; <input type="checkbox"><a href="https://docs.google.com/presentation/d/1DZCOirVJ_tPuhr59VhRlDFk9ZpsKCqEO32mYyfcJO5Q/edit?usp=sharing" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides - Chi Square Test </a> &nbsp; <i class="fas fa-file-lines"></i>    
     </td>
     <td>
 <b> No assignment for today! </b>   
