@@ -670,7 +670,7 @@ all conveniently organized for your academic journey.
   </tr>
 </table>
 
-### {{< fa calendar-days >}} Week 8 (Nov 12- Nov 14)
+### {{< fa calendar-days >}} Week 8 (Nov 12 - Nov 14)
 
 <table class="table-striped table-bordered" style="font-size: smaller; text-align: left;">
 
@@ -732,11 +732,98 @@ all conveniently organized for your academic journey.
 
 
 
-### {{< fa calendar >}} Week 9
+### {{< fa calendar-days >}} Week 9 (Nov 18 - Nov 21)
 
-<br>
-Being Worked On &nbsp; <i class="fas fa-hammer"></i>
-<br>
+<table class="table-striped table-bordered" style="font-size: smaller; text-align: left;">
+
+  <thead>
+    <th style="width: 42%">BEFORE CLASS</th>
+    <th style="width: 35%">DURING CLASS</th>
+    <th style="width: 23%">AFTER CLASS</th>
+  </thead>
+
+<tr>
+    <td>
+    &nbsp; <b> Ch 11: Comparing the Means of Many Independent Samples </b>    
+    &nbsp;<input type="checkbox"> <b> Sec. 11.1</b> Introduction &nbsp; <i class="fas fa-book-open"></i>   
+    &nbsp;<input type="checkbox"> <b> Sec. 11.2</b> The Basic One-Way ANOVA &nbsp; <i class="fas fa-book-open"></i>   
+    &nbsp;<input type="checkbox"> <b> Sec. 11.4</b> The Global F Test &nbsp; <i class="fas fa-book-open"></i>   
+    &nbsp;<input type="checkbox"> <b> Sec. 11.5</b> Applicability of Methods &nbsp; <i class="fas fa-book-open"></i> 
+    <br>
+    &nbsp; FROM Samuels et al. (2016)
+    <br>
+    </td>   
+    <td>    
+    &nbsp; <input type="checkbox"><a href=""><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides - Coming Soon! </a> &nbsp; <i class="fas fa-file-lines"></i>   
+    </td>
+    <td>
+     &nbsp;<input type="checkbox" /> <i class="fas fa-user"></i> <i class="fas fa-upload"></i> Week 9 Individual Assignment (on CANVAS)
+    <br>
+    <i class="fas fa-clock"></i><b> DUE DATE: Sun, Nov 24 </b>
+    </td> 
+</tr>
+  <tr>
+    <td>
+    &nbsp; <b> Ch 11: Comparing the Means of Many Independent Samples </b>    
+    &nbsp;<input type="checkbox"> <b> Sec. 11.1</b> Introduction &nbsp; <i class="fas fa-book-open"></i>   
+    &nbsp;<input type="checkbox"> <b> Sec. 11.2</b> The Basic One-Way ANOVA &nbsp; <i class="fas fa-book-open"></i>   
+    &nbsp;<input type="checkbox"> <b> Sec. 11.4</b> The Global F Test &nbsp; <i class="fas fa-book-open"></i>   
+    &nbsp;<input type="checkbox"> <b> Sec. 11.5</b> Applicability of Methods &nbsp; <i class="fas fa-book-open"></i> 
+    <br>
+    &nbsp; FROM Samuels et al. (2016)
+    <br>
+    </td>   
+    <td>    
+   &nbsp; <input type="checkbox" /><a href = ""><i aria-hidden="true" title="External Link to Lab Worksheet"></i> Investigation 8 - Coming Soon! </a>&nbsp; <i class="fa-solid fa-magnifying-glass"></i>  
+    </td>
+    <td>
+    <br>
+     &nbsp;<input type="checkbox" /> <i class="fas fa-users"></i> <i class="fas fa-upload"></i> Investigation 8   
+    <br>
+    <i class="fas fa-clock"></i><b> DUE DATE: Thu, Nov 21 </b>
+    </td> 
+    </tr>
+  <tr>
+    <td>
+    &nbsp; <b> Ch 11: Comparing the Means of Many Independent Samples </b>    
+    &nbsp;<input type="checkbox"> <b> Sec. 11.6</b> One-Way Randomized Blocks Design &nbsp; <i class="fas fa-book-open"></i>   
+    <br>
+    &nbsp; FROM Samuels et al. (2016)
+    <br>
+    </td>   
+    <td>    
+   &nbsp; <input type="checkbox" /><a href = "" target="_blank"><i aria-hidden="true" title="External Link to Lab Worksheet"></i> Lecture Worksheet (DOWNLOAD)Lecture Slides - Coming Soon! </a>&nbsp; <i class="fas fa-file-lines"></i>  
+    </td>
+    <td>
+     &nbsp;<input type="checkbox" /> <i class="fas fa-user"></i> <i class="fas fa-upload"></i> Extra Credit (on CANVAS)
+    <br>
+    <i class="fas fa-clock"></i><b> DUE DATE: Thu, Nov 21 </b>    
+    </td> 
+    </tr>
+  <tr>
+    <td>     
+    &nbsp; <b> Ch 11: Comparing the Means of Many Independent Samples </b>    
+    &nbsp;<input type="checkbox"> <b> Sec. 11.1</b> Introduction &nbsp; <i class="fas fa-book-open"></i>   
+    &nbsp;<input type="checkbox"> <b> Sec. 11.2</b> The Basic One-Way ANOVA &nbsp; <i class="fas fa-book-open"></i>   
+    &nbsp;<input type="checkbox"> <b> Sec. 11.4</b> The Global F Test &nbsp; <i class="fas fa-book-open"></i>   
+    &nbsp;<input type="checkbox"> <b> Sec. 11.5</b> Applicability of Methods &nbsp; <i class="fas fa-book-open"></i> 
+    <br>
+    &nbsp; FROM Samuels et al. (2016)
+    <br>
+    </td>   
+    <td>    
+    &nbsp; <input type="checkbox" /><a href = ""><i aria-hidden="true" title="External Link to Lab Dataset"></i> Lab Dataset - Coming soon </a>&nbsp; <i class="fas fa-laptop-file"></i>      
+    &nbsp; <input type="checkbox" /><a href = ""><i aria-hidden="true" title="External Link to Lab Slide"></i> Lab Slides - One-Way ANOVA -Coming Soon! </a> &nbsp; <i class="fas fa-file-lines"></i>     
+    </td>
+    <td>
+    <br>
+     &nbsp;<input type="checkbox" /> <i class="fas fa-users"></i> <i class="fas fa-upload"></i> Lab Assignment 6  
+    <br>
+    <i class="fas fa-clock"></i><b> DUE DATE: Sun, Nov 24 </b>    </td> 
+    </tr>
+
+</table>
+
 
 ### {{< fa calendar >}} Week 10
 
