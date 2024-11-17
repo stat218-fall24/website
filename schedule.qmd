@@ -754,7 +754,7 @@ all conveniently organized for your academic journey.
     <br>
     </td>   
     <td>    
-    &nbsp; <input type="checkbox"><a href=""><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides - Coming Soon! </a> &nbsp; <i class="fas fa-file-lines"></i>   
+    &nbsp; <input type="checkbox"><a href="https://docs.google.com/presentation/d/1SbttWuyJuL-tYlblgNMsFPfzPF8q1RilWK4mTLc38SY/edit?usp=sharing" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides - Introduction to One Way ANOVA </a> &nbsp; <i class="fas fa-file-lines"></i>   
     </td>
     <td>
      &nbsp;<input type="checkbox" /> <i class="fas fa-user"></i> <i class="fas fa-upload"></i> Week 9 Individual Assignment (on CANVAS)
