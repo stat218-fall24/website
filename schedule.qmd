@@ -774,7 +774,7 @@ all conveniently organized for your academic journey.
     <br>
     </td>   
     <td>    
-   &nbsp; <input type="checkbox" /><a href = ""><i aria-hidden="true" title="External Link to Lab Worksheet"></i> Investigation 8 - Coming Soon! </a>&nbsp; <i class="fa-solid fa-magnifying-glass"></i>  
+   &nbsp; <input type="checkbox" /><a href = "https://docs.google.com/document/d/1szD8jxR6lyqOUlsl5JmwBIw00pLEyZj3YkQAw-fYfAg/copy?usp=sharing" target="_blank"><i aria-hidden="true" title="External Link to Lab Worksheet"></i> Investigation 8 - Comparing Multiple Means</a>&nbsp; <i class="fa-solid fa-magnifying-glass"></i>  
     </td>
     <td>
     <br>
@@ -792,7 +792,7 @@ all conveniently organized for your academic journey.
     <br>
     </td>   
     <td>    
-   &nbsp; <input type="checkbox" /><a href = "" target="_blank"><i aria-hidden="true" title="External Link to Lab Worksheet"></i> Lecture Worksheet (DOWNLOAD)Lecture Slides - Coming Soon! </a>&nbsp; <i class="fas fa-file-lines"></i>  
+   &nbsp; <input type="checkbox" /><a href = "" target="_blank"><i aria-hidden="true" title="External Link to Lab Worksheet"></i> Lecture Slides - Coming Soon! </a>&nbsp; <i class="fas fa-file-lines"></i>  
     </td>
     <td>
      &nbsp;<input type="checkbox" /> <i class="fas fa-user"></i> <i class="fas fa-upload"></i> Extra Credit (on CANVAS)
