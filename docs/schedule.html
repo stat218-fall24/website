@@ -69,6 +69,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -160,7 +189,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#week-7-nov-4---nov-7" id="toc-week-7-nov-4---nov-7" class="nav-link" data-scroll-target="#week-7-nov-4---nov-7"><i class="fa-solid fa-calendar-days" aria-label="calendar-days"></i> Week 7 (Nov 4 - Nov 7)</a></li>
   <li><a href="#week-8-nov-12---nov-14" id="toc-week-8-nov-12---nov-14" class="nav-link" data-scroll-target="#week-8-nov-12---nov-14"><i class="fa-solid fa-calendar-days" aria-label="calendar-days"></i> Week 8 (Nov 12 - Nov 14)</a></li>
   <li><a href="#week-9-nov-18---nov-21" id="toc-week-9-nov-18---nov-21" class="nav-link" data-scroll-target="#week-9-nov-18---nov-21"><i class="fa-solid fa-calendar-days" aria-label="calendar-days"></i> Week 9 (Nov 18 - Nov 21)</a></li>
-  <li><a href="#week-10" id="toc-week-10" class="nav-link" data-scroll-target="#week-10"><i class="fa-solid fa-calendar" aria-label="calendar"></i> Week 10</a></li>
+  <li><a href="#week-10-dec-2--dec-5" id="toc-week-10-dec-2--dec-5" class="nav-link" data-scroll-target="#week-10-dec-2--dec-5"><i class="fa-solid fa-calendar-days" aria-label="calendar-days"></i> Week 10 (Dec 2 -Dec 5)</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -903,9 +932,89 @@ AFTER CLASS
 </tr>
 </tbody></table>
 </section>
-<section id="week-10" class="level3">
-<h3 class="anchored" data-anchor-id="week-10"><i class="fa-solid fa-calendar" aria-label="calendar"></i> Week 10</h3>
-<p><br> Being Worked On &nbsp; <i class="fas fa-hammer"></i> <br></p>
+<section id="week-10-dec-2--dec-5" class="level3">
+<h3 class="anchored" data-anchor-id="week-10-dec-2--dec-5"><i class="fa-solid fa-calendar-days" aria-label="calendar-days"></i> Week 10 (Dec 2 -Dec 5)</h3>
+<table class="table-striped table-bordered" style="font-size: smaller; text-align: left;">
+<thead>
+<tr><th style="width: 40%">
+BEFORE CLASS
+</th>
+<th style="width: 37%">
+DURING CLASS
+</th>
+<th style="width: 23%">
+AFTER CLASS
+</th>
+</tr></thead>
+<tbody><tr>
+<td>
+&nbsp; <b> Ch 12: Linear Regression and Correlation </b><br>
+&nbsp;<input type="checkbox"> <b> Sec. 12.1</b> Introduction &nbsp; <i class="fas fa-book-open"></i><br>
+&nbsp;<input type="checkbox"> <b> Sec. 12.2</b> The Correlation Coefficient &nbsp; <i class="fas fa-book-open"></i><br>
+<br> &nbsp; FROM Samuels et al.&nbsp;(2016) <br>
+</td>
+<td>
+&nbsp; <input type="checkbox"><a href="" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides - Coming soon!</a> &nbsp; <i class="fas fa-file-lines"></i><br>
+
+</td>
+<td>
+<b> No assignment for today </b>
+</td>
+</tr>
+<tr>
+<td>
+&nbsp; <b> Ch 12: Linear Regression and Correlation </b><br>
+&nbsp;<input type="checkbox"> <b> Sec. 12.3</b> The Fitted Regression Line &nbsp; <i class="fas fa-book-open"></i><br>
+&nbsp;<input type="checkbox"> <b> Sec. 12.4</b> Parametric Interpretation of Regression: The Linear Model &nbsp; <i class="fas fa-book-open"></i><br>
+&nbsp;<input type="checkbox"> <b> Sec. 12.5</b> Statistical Inference Concerning <span class="math inline">\(\beta_1\)</span> &nbsp; <i class="fas fa-book-open"></i><br>
+<br> &nbsp; FROM Samuels et al.&nbsp;(2016)
+</td>
+<td>
+&nbsp; <input type="checkbox"><a href="" target="_blank"><i aria-hidden="true" title="External Link to Lab Worksheet"></i> Lecture Slides - Coming Soon!</a>&nbsp; <i class="fas fa-laptop-file"></i><br>
+
+</td>
+<td>
+<br> &nbsp;<input type="checkbox"> <i class="fas fa-user"></i> <i class="fas fa-upload"></i> Week 10 Individual Assignment (on CANVAS) <br> <i class="fas fa-clock"></i><b> DUE DATE: Fri, Dec 06 </b>
+</td>
+</tr>
+<tr>
+<td>
+&nbsp; <b> Ch 12: Linear Regression and Correlation </b><br>
+&nbsp;<input type="checkbox"> <b> Sec. 12.1</b> Introduction &nbsp; <i class="fas fa-book-open"></i><br>
+&nbsp;<input type="checkbox"> <b> Sec. 12.2</b> The Correlation Coefficient &nbsp; <i class="fas fa-book-open"></i><br>
+&nbsp;<input type="checkbox"> <b> Sec. 12.3</b> The Fitted Regression Line &nbsp; <i class="fas fa-book-open"></i><br>
+&nbsp;<input type="checkbox"> <b> Sec. 12.4</b> Parametric Interpretation of Regression: The Linear Model &nbsp; <i class="fas fa-book-open"></i><br>
+&nbsp;<input type="checkbox"> <b> Sec. 12.5</b> Statistical Inference Concerning <span class="math inline">\(\beta_1\)</span> &nbsp; <i class="fas fa-book-open"></i><br>
+<br> &nbsp; FROM Samuels et al.&nbsp;(2016) <br>
+</td>
+<td>
+&nbsp; <input type="checkbox"><a href="" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lab Slides - Coming Soon!</a> &nbsp; <i class="fas fa-file-lines"></i><br>
+
+</td>
+<td>
+<br> &nbsp;<input type="checkbox"> <i class="fas fa-users"></i> <i class="fas fa-upload"></i> Lab Assignment 7<br>
+<br> <i class="fas fa-clock"></i><b> DUE DATE: Fri, Dec 6 </b><br>
+
+</td>
+</tr>
+<tr>
+<td>
+&nbsp; <b> Ch 11: Comparing the Means of Many Independent Samples </b><br>
+&nbsp;<input type="checkbox"> <b> Sec. 11.1</b> Introduction &nbsp; <i class="fas fa-book-open"></i><br>
+&nbsp;<input type="checkbox"> <b> Sec. 11.2</b> The Basic One-Way ANOVA &nbsp; <i class="fas fa-book-open"></i><br>
+&nbsp;<input type="checkbox"> <b> Sec. 11.4</b> The Global F Test &nbsp; <i class="fas fa-book-open"></i><br>
+&nbsp;<input type="checkbox"> <b> Sec. 11.5</b> Applicability of Methods &nbsp; <i class="fas fa-book-open"></i> <br> &nbsp; FROM Samuels et al.&nbsp;(2016) <br>
+</td>
+<td>
+&nbsp; <input type="checkbox"> <a href="" target="_blank"><i aria-hidden="true" title="External Link to Lab Slide" target="_blank"></i> Ungraded Quiz - Google Form </a> <i class="fas fa-highlighter"></i><br>
+
+</td>
+<td>
+<p>&nbsp; <input type="checkbox"> Review your class notes</p>
+<br>
+</td>
+</tr>
+</tbody></table>
 
 
 </section>
