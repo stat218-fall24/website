@@ -845,7 +845,7 @@ all conveniently organized for your academic journey.
     <br>
     </td>   
     <td>    
-    &nbsp; <input type="checkbox"><a href="" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides - Coming soon!</a> &nbsp; <i class="fas fa-file-lines"></i>   
+    &nbsp; <input type="checkbox"><a href="https://docs.google.com/presentation/d/1ditBAP-1zslL4cl0tfiUWXdfzEU1P3eb1iAn8NCaVjo/edit?usp=sharing" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides - Correlation </a> &nbsp; <i class="fas fa-file-lines"></i>   
     </td>
     <td>
     <b> No assignment for today </b>
@@ -895,14 +895,7 @@ all conveniently organized for your academic journey.
     </tr>
   <tr>
     <td>     
-    &nbsp; <b> Ch 11: Comparing the Means of Many Independent Samples </b>    
-    &nbsp;<input type="checkbox"> <b> Sec. 11.1</b> Introduction &nbsp; <i class="fas fa-book-open"></i>   
-    &nbsp;<input type="checkbox"> <b> Sec. 11.2</b> The Basic One-Way ANOVA &nbsp; <i class="fas fa-book-open"></i>   
-    &nbsp;<input type="checkbox"> <b> Sec. 11.4</b> The Global F Test &nbsp; <i class="fas fa-book-open"></i>   
-    &nbsp;<input type="checkbox"> <b> Sec. 11.5</b> Applicability of Methods &nbsp; <i class="fas fa-book-open"></i> 
-    <br>
-    &nbsp; FROM Samuels et al. (2016)
-    <br>
+ALL CHAPTERS!
     </td>   
     <td>    
     &nbsp; <input type="checkbox" /> <a href="" target="_blank"><i aria-hidden="true" title="External Link to Lab Slide" target="_blank"></i> Ungraded Quiz - Google Form  </a> <i class="fas fa-highlighter"></i>   
